@@ -7,3 +7,5 @@ Convert images to Factorio blueprints
 4. Enter tile or entity name in prop selection
 5. Select prop type
 6. Generate blueprint, copy and paste into game
+
+Thanks to https://github.com/Jason-Clement/Factorio-Blueprint-Tool where I stole the Blueprint.cs from.
